@@ -1,0 +1,16 @@
+C:\Users\p458461\Desktop\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.deps.json
+C:\Users\p458461\Desktop\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.dll
+C:\Users\p458461\Desktop\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.pdb
+C:\Users\p458461\Desktop\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\p458461\Desktop\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\p458461\Desktop\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.AssemblyInfo.cs
+C:\Users\p458461\Desktop\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.dll
+C:\Users\p458461\Desktop\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.pdb
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.deps.json
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.dll
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\bin\Debug\netstandard1.4\BasicMath.pdb
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.csprojResolveAssemblyReference.cache
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.csproj.CoreCompileInputs.cache
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.AssemblyInfo.cs
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.dll
+E:\Diploma Software Programming\Programming III\AT1 Portfolio\AT1.6\BasicMath\BasicMath\obj\Debug\netstandard1.4\BasicMath.pdb
